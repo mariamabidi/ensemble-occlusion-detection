@@ -517,7 +517,7 @@ black src/ scripts/
 ## 📌 Related Work
 
 - [PhysioNet ECG Databases](https://physionet.org/)
-- [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/)
+- [A large scale 12-lead electrocardiogram database for arrhythmia study]([https://physionet.org/content/mitdb/](https://physionet.org/content/ecg-arrhythmia/1.0.0/))
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [ECG Signal Processing](https://github.com/topics/ecg-signal-processing)
 
