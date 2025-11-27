@@ -517,7 +517,7 @@ black src/ scripts/
 ## 📌 Related Work
 
 - [PhysioNet ECG Databases](https://physionet.org/)
-- [A large scale 12-lead electrocardiogram database for arrhythmia study]((https://physionet.org/content/ecg-arrhythmia/1.0.0/))
+- [A large scale 12-lead electrocardiogram database for arrhythmia study](https://physionet.org/content/ecg-arrhythmia/1.0.0/)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [ECG Signal Processing](https://github.com/topics/ecg-signal-processing)
 
