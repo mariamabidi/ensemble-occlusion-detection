@@ -137,20 +137,3 @@ Soft Voting             92.58%      92.52%      92.58%         95.84%
 🔗 **Project**: [github.com/yourusername/ecg-arrhythmia-classification](https://github.com/yourusername/ecg-arrhythmia-classification)
 
 ---
-
-## 🙏 Acknowledgments
-
-- Dr. Linwei Wang for guidance and supervision
-- Rochester Institute of Technology for computational resources
-- ECG dataset contributors
-- Open source ML community (scikit-learn, pandas, matplotlib)
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ for cardiac health research
-
-</div>
