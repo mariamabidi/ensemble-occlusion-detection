@@ -134,6 +134,4 @@ Soft Voting             92.58%      92.52%      92.58%         95.84%
 🎓 Rochester Institute of Technology  
 👨‍🏫 Advisor: Dr. Linwei Wang
 
-🔗 **Project**: [github.com/yourusername/ecg-arrhythmia-classification](https://github.com/yourusername/ecg-arrhythmia-classification)
-
 ---
